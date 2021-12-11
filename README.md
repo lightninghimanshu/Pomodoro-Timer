@@ -32,11 +32,7 @@ Run the project
 - [React Expo v43](https://docs.expo.dev/)
 
 ## Demo
-
-
-## Video Demo
-
-
+https://snack.expo.dev/@lightninghimanshu/pomodoro-project-github
 
 ## License
 Distributed under the MIT License. See LICENSE for more information.
